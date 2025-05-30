@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "db5ed2dc-48c2-4907-878d-74e2412f6bfa",
+    "name": "Paul Lehner",
+    "phone": "1-852-939-7990",
+    "email": "Cooper_Dietrich73@yahoo.com",
+    "job": "Customer Integration Officer"
+  },
+  {
+    "id": "193dd339-f29a-4dfd-81ed-24b6dcffb83f",
+    "name": "Conrad Goldner",
+    "phone": "587-806-0997 x50893",
+    "email": "Lukas66@gmail.com",
+    "job": "Investor Integration Agent"
+  },
+  {
+    "id": "0ed21579-e9ce-4f66-ac5b-c94b06b5fbd5",
+    "name": "Sam Marquardt-Wuckert",
+    "phone": "961-298-4721 x03715",
+    "email": "Ewell83@hotmail.com",
+    "job": "Customer Accountability Supervisor"
+  }
+]
